@@ -29,8 +29,8 @@ extension安装地址：https://marketplace.visualstudio.com/items?itemName=geor
 
 ### 如何配置
 
-Mac：Code > Preperences > Settings > Extensions > svg2font
-Windows/Linux: File > Preferences > Settings > Extensions > svg2font
+- Mac：Code > Preperences > Settings > Extensions > svg2font
+- Windows/Linux: File > Preferences > Settings > Extensions > svg2font
 
 ## Release Notes
 
