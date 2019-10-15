@@ -4,6 +4,10 @@ svg2font-extension 是基于svg2font的一个Visual Studio Code的插件
 
 svg2font项目地址：https://github.com/george-quzhi/svg2font
 
+svg2font-extension项目地址：https://github.com/george-quzhi/svg2font-extension
+
+extension安装地址：https://marketplace.visualstudio.com/items?itemName=george.svg2font-extension#review-details
+
 ## Features
 
 ### 图标生成字体
