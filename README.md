@@ -27,6 +27,11 @@ extension安装地址：https://marketplace.visualstudio.com/items?itemName=geor
 |svg2font.fontPath|Specifies the font target path. By default, use the subdirectory or sibling directory of the selected file.|null|
 |svg2font.svgPath|Specifies the svg target path. By default, use the subdirectory or sibling directory of the selected file.|null|
 
+### 如何配置
+
+Mac：Code > Preperences > Settings > Extensions > svg2font
+Windows/Linux: File > Preferences > Settings > Extensions > svg2font
+
 ## Release Notes
 
 ### 0.0.1
