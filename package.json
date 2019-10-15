@@ -98,7 +98,7 @@
 		"mocha": "^6.1.4",
 		"tslint": "^5.12.1",
 		"typescript": "^3.3.1",
-		"vscode-test": "^1.2.0",
+		"vscode-test": "^1.2.0"
 	},
 	"dependencies": {
 		"svg2font": "git+https://github.com/george-quzhi/svg2font.git"
